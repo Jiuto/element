@@ -81,6 +81,7 @@ import { ElAvatar } from './avatar'
 import { ElDrawer } from './drawer'
 import { ElPopconfirm } from './popconfirm'
 import { ElPicturePreview } from './picture-preview'
+import { ElGuidePage } from './guide-page'
 
 export interface InstallationOptions {
   locale: any,
@@ -348,3 +349,6 @@ export class Popconfirm extends ElPopconfirm {}
 
 /** PicturePreview Component */
 export class PicturePreview extends ElPicturePreview {}
+
+/** GuidePage Component */
+export class GuidePage extends ElGuidePage {}

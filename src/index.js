@@ -83,6 +83,7 @@ import Avatar from '../packages/avatar/index.js';
 import Drawer from '../packages/drawer/index.js';
 import Popconfirm from '../packages/popconfirm/index.js';
 import PicturePreview from '../packages/picture-preview/index.js';
+import GuidePage from '../packages/guide-page/index.js';
 import locale from 'element-ui/src/locale';
 import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
 
@@ -165,6 +166,7 @@ const components = [
   Drawer,
   Popconfirm,
   PicturePreview,
+  GuidePage,
   CollapseTransition
 ];
 
@@ -287,5 +289,6 @@ export default {
   Avatar,
   Drawer,
   Popconfirm,
-  PicturePreview
+  PicturePreview,
+  GuidePage
 };

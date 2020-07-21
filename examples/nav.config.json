@@ -295,6 +295,10 @@
             {
               "path": "/picture-preview",
               "title": "PicturePreview 图片预览"
+            },
+            {
+              "path": "/guide-page",
+              "title": "GuidePage 引导页"
             }
           ]
         }
@@ -597,6 +601,10 @@
             {
               "path": "/picture-preview",
               "title": "PicturePreview"
+            },
+            {
+              "path": "/guide-page",
+              "title": "GuidePage"
             }
           ]
         }
@@ -899,6 +907,10 @@
             {
               "path": "/picture-preview",
               "title": "PicturePreview"
+            },
+            {
+              "path": "/guide-page",
+              "title": "GuidePage"
             }
           ]
         }
@@ -1201,6 +1213,10 @@
             {
               "path": "/picture-preview",
               "title": "PicturePreview"
+            },
+            {
+              "path": "/guide-page",
+              "title": "GuidePage"
             }
           ]
         }

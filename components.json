@@ -81,5 +81,6 @@
   "avatar": "./packages/avatar/index.js",
   "drawer": "./packages/drawer/index.js",
   "popconfirm": "./packages/popconfirm/index.js",
-  "picture-preview": "./packages/picture-preview/index.js"
+  "picture-preview": "./packages/picture-preview/index.js",
+  "guide-page": "./packages/guide-page/index.js"
 }
